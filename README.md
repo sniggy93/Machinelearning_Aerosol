@@ -3,6 +3,10 @@ AE Thesis for aerosol classification from the satellite data. TROPOMI, POLDER an
 
 
 
+![Timeline](timeline.png)
+
+
+
 ## Installation Files
 
 > pip install python
