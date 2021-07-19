@@ -1,7 +1,7 @@
 # Machine learning for Aerosol Classication
-AE Thesis for aerosol classification from the satellite data. TROPOMI, POLDER and OMI are the satellite data that will be used.
+AE Thesis for aerosol classification from the satellite data. TROPOMI, POLDER and OMI are the satellite data that will be used. The repository includes python scripts and some R files. 
 
-
+Below is the time of the satellite missions under consideration. 
 
 ![Timeline](timeline.png)
 
