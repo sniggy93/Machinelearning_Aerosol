@@ -5,8 +5,14 @@ AE Thesis for aerosol classification from the satellite data. TROPOMI, POLDER an
 
 ## Installation Files
 
+> pip install python
+
 
 
 ## Downloading the Satellite Data
+
+The following code can be used to download the satellite data.
+
+
 
 
