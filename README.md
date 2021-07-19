@@ -3,7 +3,7 @@ AE Thesis for aerosol classification from the satellite data. TROPOMI, POLDER an
 
 Below is the time of the satellite missions under consideration. 
 
-![Timeline](timeline.png)
+![Timeline](Images/timeline.png)
 
 
 
